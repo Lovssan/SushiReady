@@ -1,0 +1,58 @@
+[
+  {
+    "type": "dobavka",
+    "id": 22,
+    "title": "Coca cola",
+    "itemsInBox": "1 литр",
+    "price": 149,
+    "imgSrc": "28020-PhotoRoom.png-PhotoRoom.png"
+  },
+  {
+    "type": "dobavka",
+    "id": 23,
+    "title": "Pepsi cola",
+    "itemsInBox": "1 литр",
+    "price": 149,
+    "imgSrc": "2a5e7204f39f160e04f22470aaa84dee.jpg"
+  },
+  {
+    "type": "dobavka",
+    "id": 24,
+    "title": "Картофель фри",
+    "itemsInBox": "200 гр",
+    "price": 139,
+    "imgSrc": "27.jpg"
+  },
+  {
+    "type": "dobavka",
+    "id": 25,
+    "title": "Сырный соус",
+    "itemsInBox": "30 гр",
+    "price": 35,
+    "imgSrc": "syrnyy-1000x700-1000x700-PhotoRoom 1.png"
+  },
+  {
+    "type": "dobavka",
+    "id": 26,
+    "title": "Чесночный соус",
+    "itemsInBox": "30 гр",
+    "price": 35,
+    "imgSrc": "Sous-CHesnochnyj.png"
+  },
+  {
+    "type": "dobavka",
+    "id": 27,
+    "title": "Кетчуп соус",
+    "itemsInBox": "30 гр",
+    "price": 35,
+    "imgSrc": "e0aa4063-6b43-11e9-9c6e-54a05051519a_1.jpg"
+  },
+  {
+    "type": "dobavka",
+    "id": 28,
+    "title": "Соевый соус",
+    "itemsInBox": "30 гр",
+    "price": 20,
+    "imgSrc": "46.jpg"
+  }
+]

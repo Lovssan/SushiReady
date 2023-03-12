@@ -1,0 +1,18 @@
+[
+  {
+    "type": "wok",
+    "id": 18,
+    "title": "Вок с удоном",
+    "itemsInBox": "Лапша удон, курочка, овощи, соус террияки",
+    "price": 319,
+    "imgSrc": "Vok-s-kuritsej.jpg"
+  },
+  {
+    "type": "wok",
+    "id": 19,
+    "title": "Вок с рисом",
+    "itemsInBox": "Рис, курочка, овощи, соус террияки",
+    "price": 329,
+    "imgSrc": "Tepan-s-kuritsej-600x600.jpg"
+  }
+]

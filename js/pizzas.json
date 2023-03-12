@@ -1,0 +1,74 @@
+[
+  {
+    "type": "pizza",
+    "id": 9,
+    "title": "Пепперони",
+    "itemsInBox": "Колбаса пепперони, сыр Моцарелла, итальянские травы, соус",
+    "price": 450,
+    "imgSrc": "pepperoni.jpg"
+  },
+  {
+    "type": "pizza",
+    "id": 10,
+    "title": "Чикен ранч",
+    "itemsInBox": "Ветчина, филе, сыр, Моцарелла, чесночный соус",
+    "price": 450,
+    "imgSrc": "chiken_ranch.jpg"
+  },
+  {
+    "type": "pizza",
+    "id": 11,
+    "title": "Пицца фирменная",
+    "itemsInBox": "Пицца соус, сыр Моцарелла, бекон, ветчина, курица, помидор, чесночный соус",
+    "price": 490,
+    "imgSrc": "ciplenok-barbeku.jpg"
+  },
+  {
+    "type": "pizza",
+    "id": 12,
+    "title": "Острая пицца",
+    "itemsInBox": "Колбаса пепперони, сыр Моцарелла, халапенью, пицца соус, спайси соус",
+    "price": 450,
+    "imgSrc": "myasnaya-1.jpg"
+  },
+  {
+    "type": "pizza",
+    "id": 13,
+    "title": "Классическая пицца",
+    "itemsInBox": "Колбаски, бекон, сыр Моцарелла, солённые огурцы, маслины, соус",
+    "price": 450,
+    "imgSrc": "chorizo-1.png"
+  },
+  {
+    "type": "pizza",
+    "id": 14,
+    "title": "Пицца гавайская",
+    "itemsInBox": "Ветчина, курица, ананас, кунжут",
+    "price": 450,
+    "imgSrc": "gavajskaya.jpg"
+  },
+  {
+    "type": "pizza",
+    "id": 15,
+    "title": "Пицца барбекю",
+    "itemsInBox": "Бекон, курица, корнишоны, барбекю соус",
+    "price": 450,
+    "imgSrc": "gavayskiy-ciplenok-barbekyu.jpg"
+  },
+  {
+    "type": "pizza",
+    "id": 16,
+    "title": "Пицца ассорти из 2 половинок",
+    "itemsInBox": "Бекон, курица, корнишоны, барбекю соус",
+    "price": 470,
+    "imgSrc": "76329fab-032c-4722-97a9-abec00d5525c.jpg"
+  },
+  {
+    "type": "pizza",
+    "id": 17,
+    "title": "Пицца ассорти из 4 половинок",
+
+    "price": 490,
+    "imgSrc": "235388c8803258ec5554ab1ce06546b8-548x411.png"
+  }
+]
